@@ -3,7 +3,7 @@ In this repository global package and title data are stored as version-controlle
 
 ### Structure
 
-- directory names: same as GOKb package names and curatory group in brackets, i.e. _Emerald Publishing: Emerald 120: 2018 (hbz)_
+- directory names: same as intended GOKb package names and curatory group in brackets, i.e. _Emerald Publishing: Emerald 120: 2018 (hbz)_
 - in each directory: 
   - Original KBART file
   - YGOR status file
